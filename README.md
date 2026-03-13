@@ -192,9 +192,9 @@ The console interface will display login options for administrators and voters.
 The refactoring process transformed a large monolithic script into a **structured, modular, and maintainable system**. By applying object-oriented principles and separating responsibilities into different modules, the project now follows good **software engineering practices** and is easier to extend and maintain.
 
 ## The Group members
-1. ⁠Musoke Nestroy                S24B23/069    B30208
-2. Ansasiire Nehum Naamaye       S24B23/018    B29785
-3. ⁠Atuheirwe Drusilla            S24B23/106    B30671
-4. Andrea Mwonge                 S24B23/ 070   B30233
-5. NAKIWALA Josephine            M24B23\044    B29182
-6. Kirabo Jorryn Edna.T.         S24B23/041    B30098
+1. ⁠Musoke Nestroy                 S24B23/069    B30208
+2. Ansasiire Nehum Naamaye        S24B23/018    B29785
+3. ⁠Atuheirwe Drusilla             S24B23/106    B30671
+4. Andrea Mwonge                  S24B23/ 070   B30233
+5. NAKIWALA Josephine             M24B23\044    B29182
+6. Kirabo Jorryn Edna.T.          S24B23/041    B30098
