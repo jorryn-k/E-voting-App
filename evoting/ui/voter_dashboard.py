@@ -18,7 +18,7 @@ def voter_dashboard(store):
         menu_item(6, "Change Password", THEME_VOTER)
         menu_item(7, "Logout", THEME_VOTER)
 
-        choice = prompt("Enter choice: ")
+        choice = prompt("Input choice: ")
 
         if choice == "1": store.vote_manager.view_open_polls()
         elif choice == "2": store.vote_manager.cast_vote()
