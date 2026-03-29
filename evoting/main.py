@@ -1,6 +1,6 @@
 from evoting.utils.display import clear_screen
 from evoting.persistence import load_data
-from evoting.ui.auth import login
+from evoting.ui.authentication import login
 from evoting.models.data_store import DataStore
 from evoting.constants import*
 
